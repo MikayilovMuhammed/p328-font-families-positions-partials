@@ -1,0 +1,9 @@
+@font-face {
+    font-family: LatoBlack;
+    src: url("../fonts/Lato/Lato-Black.ttf");
+}
+
+@font-face {
+    font-family: montserrat;
+    src: url("../fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
